@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentverify",
+        "uuid": 2204904,
+        "checksum": "u6v95ko"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
